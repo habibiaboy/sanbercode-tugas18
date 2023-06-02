@@ -1,6 +1,5 @@
 [object Object]
 
-```sh
 <p align="center">
   <a href="https://www.cypress.io">
     <picture>
@@ -15,6 +14,10 @@
   <a href="https://on.cypress.io/changelog">Changelog</a> |
   <a href="https://on.cypress.io/roadmap">Roadmap</a>
 </p>
+
+```bash
+
+```
 
 <h3 align="center">
   The web has evolved. Finally, testing has too.
@@ -56,13 +59,14 @@ Install Cypress for Mac, Linux, or Windows, then [get started](https://on.cypres
 ```bash
 npm install cypress --save-dev
 ```
+
 or
+
 ```bash
 yarn add cypress --dev
 ```
 
 ![installing-cli e1693232](https://user-images.githubusercontent.com/1271364/31740846-7bf607f0-b420-11e7-855f-41c996040d31.gif)
-
 
 ## Contributing
 
@@ -93,7 +97,6 @@ Or let the world know your project is using Cypress with the badge below.
 
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
-```
+```md
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
-```
 ```
