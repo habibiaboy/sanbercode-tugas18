@@ -1,5 +1,5 @@
 describe("my first test", () => {
-	it("Login demoqa ", () => {
+	it("Login Orangehrmlive ", () => {
 		cy.visit("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 		cy.title().should("eq", "OrangeHRM");
 		cy.get(":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-input").type("Admin");
